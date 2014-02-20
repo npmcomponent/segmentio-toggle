@@ -1,0 +1,24 @@
+{
+  "name": "segmentio-toggle",
+  "description": "A toggle UI element.",
+  "version": "0.1.0",
+  "keywords": [
+    "toggle",
+    "ui",
+    "checkbox"
+  ],
+  "main": "lib/index.js",
+  "styles": [
+    "lib/index.css"
+  ],
+  "dependencies": {
+    "component-classes": "git://github.com/npmcomponent/component-classes.git",
+    "component-domify": "git://github.com/npmcomponent/component-domify.git",
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git",
+    "component-events": "git://github.com/npmcomponent/component-events.git",
+    "component-value": "git://github.com/npmcomponent/component-value.git",
+    "yields-prevent": "git://github.com/npmcomponent/yields-prevent.git",
+    "yields-stop": "git://github.com/npmcomponent/yields-stop.git"
+  },
+  "license": "MIT"
+}
